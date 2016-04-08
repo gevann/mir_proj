@@ -1,0 +1,16 @@
+List: "MirexChord2009.lst"
+
+**********************
+* Chords MirexMajMin *
+**********************
+Duration of evaluated symbols: 35778.2 s
+Average score: 75.1407%
+
+Correct chords: 26031.9s (72.759%)
+Only root correct: 808.826s (2.26067%)
+Only type correct: 3983.19s (11.133%)
+All wrong: 2792.46s (7.8049%)
+Deleted chords: 249.825 s (0.698259%)
+
+Correct no-chords: 852.145 s (2.38174%)
+Inserted chords: 1059.92 s (2.96248%)

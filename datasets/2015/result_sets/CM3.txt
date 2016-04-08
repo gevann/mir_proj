@@ -1,0 +1,40 @@
+List: "Isophonics2009.lst"
+
+**********************
+* Chords MirexMajMin *
+**********************
+Duration of evaluated chords: 35778.2 s
+Average score: 54.6482%
+
+Chord detection results
+-----------------------
+Correct chords: 19104.8 s (53.3977%)
+Substituted chords: 14676.1 s (41.0197%)
+Deleted chords: 85.2978 s (0.238407%)
+Inserted chords: 1464.65 s (4.09369%)
+Correct no-chords: 447.419 s (1.25053%)
+
+Results per chord type
+----------------------
+maj: 15996.4 s (60.5042%) of 26438.5 s (73.8953%)
+min: 3108.38 s (41.8484%) of 7427.73 s (20.7605%)
+
+Results per number of chromas wrong
+-----------------------------------
+0 chromas wrong: 19104.8 s (53.3977%)
+  of which root correct: 19104.8 s (53.3977%)
+  of which root incorrect: 0 s (0%)
+1 chroma wrong: 8288.17 s (23.1654%)
+  of which 1 substitution: 8288.17 s (23.1654%)
+2 chromas wrong: 3200.39 s (8.94508%)
+  of which 2 substitutions: 3200.39 s (8.94508%)
+3 chromas wrong: 1312.56 s (3.66861%)
+  of which 3 substitutions: 1312.56 s (3.66861%)
+unknown chromas wrong: 1875 s (5.24062%)
+
+Root/type results
+-----------------
+Both correct: 19104.8 s (53.3977%)
+Only root correct: 4128.18 s (11.5382%)
+Only type correct: 3126.71 s (8.73915%)
+Both wrong: 7421.24 s (20.7423%)
